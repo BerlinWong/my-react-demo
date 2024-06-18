@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "OperatorMonoBold";
+  src: url("@/assets/fonts/OperatorMono-Bold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+    font-family: "OperatorMonoBookItalic";
+    src: url("@/assets/fonts/OperatorMono-BookItalic.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
